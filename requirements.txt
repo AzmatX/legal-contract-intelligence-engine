@@ -1,0 +1,24 @@
+# Core dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# OCR
+pytesseract==0.3.10
+pdf2image==1.16.3
+pdfplumber==0.10.3
+Pillow==10.2.0
+
+# NLP
+spacy==3.7.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+# Utilities
+python-dotenv==1.0.0
+pathlib2==2.3.7.post1
+
+# Logging
+python-json-logger==2.0.7
