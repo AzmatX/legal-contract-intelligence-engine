@@ -1,0 +1,47 @@
+{
+  "contract_id": "CUAD-DEMO-001",
+  "document_name": "Software License Agreement",
+  "parties": [
+    {
+      "name": "Licensor Corp",
+      "role": "licensor"
+    },
+    {
+      "name": "Licensee Inc",
+      "role": "licensee"
+    }
+  ],
+  "clauses": [
+    {
+      "type": "termination",
+      "text": "This agreement may be terminated by either party with 30 days written notice.",
+      "risk_level": "medium"
+    },
+    {
+      "type": "confidentiality",
+      "text": "Both parties shall maintain confidentiality of proprietary information for 3 years.",
+      "risk_level": "low"
+    },
+    {
+      "type": "indemnification",
+      "text": "Licensor shall indemnify Licensee against third-party claims arising from software defects.",
+      "risk_level": "high"
+    },
+    {
+      "type": "limitation_of_liability",
+      "text": "Liability shall not exceed the total fees paid under this agreement.",
+      "risk_level": "medium"
+    },
+    {
+      "type": "governing_law",
+      "text": "This agreement shall be governed by the laws of Delaware.",
+      "risk_level": "low"
+    }
+  ],
+  "metadata": {
+    "effective_date": "2024-01-01",
+    "expiration_date": "2026-12-31",
+    "contract_value": 500000,
+    "currency": "USD"
+  }
+}

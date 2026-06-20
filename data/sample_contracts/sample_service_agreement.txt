@@ -1,0 +1,45 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 15, 2024, by and between:
+
+TechCorp Solutions Inc., a Delaware corporation with its principal place of business at 123 Innovation Drive, San Francisco, CA 94105 ("Provider"),
+
+and
+
+Global Enterprises LLC, a New York limited liability company with its principal place of business at 456 Business Avenue, New York, NY 10001 ("Client").
+
+1. SERVICES
+Provider agrees to provide software development and consulting services as described in Exhibit A attached hereto.
+
+2. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue for a period of two (2) years unless terminated earlier. Either party may terminate this Agreement with ninety (90) days written notice. In the event of material breach, the non-breaching party may terminate immediately upon written notice.
+
+3. CONFIDENTIALITY
+Both parties agree to maintain strict confidentiality of all proprietary information disclosed during the term of this Agreement. Confidential Information includes but is not limited to trade secrets, customer lists, technical data, and business strategies. This obligation shall survive termination for a period of five (5) years.
+
+4. PAYMENT TERMS
+Client agrees to pay Provider a total fee of $250,000 USD payable in monthly installments of $20,833.33. Late payments shall incur interest at 1.5% per month.
+
+5. INDEMNIFICATION
+Provider shall indemnify and hold harmless Client from any claims, damages, or expenses arising out of Provider's negligence or willful misconduct. Client shall indemnify Provider against claims arising from Client's use of deliverables.
+
+6. LIMITATION OF LIABILITY
+In no event shall either party's liability exceed the total amount paid under this Agreement. Neither party shall be liable for indirect, incidental, or consequential damages.
+
+7. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.
+
+8. DISPUTE RESOLUTION
+Any disputes arising under this Agreement shall be resolved through binding arbitration in San Francisco, California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TechCorp Solutions Inc.
+By: /s/ John Smith
+Name: John Smith
+Title: CEO
+
+Global Enterprises LLC
+By: /s/ Jane Doe
+Name: Jane Doe
+Title: CFO
